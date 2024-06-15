@@ -12,8 +12,8 @@ We created this application with the aim of helping cataract sufferers check for
 
 ### Awesome Members 👨‍👩‍👧‍👦
 Our team consists of seven great people with their own specialties. Here are the members of `C241-PS078` team:
-- Dwi Cahyo Nugroho (MD)
-- Alfin Kurniawan (MD)
+- Dwi Cahyo Nugroho (MD) - Jobdesk - Integration Login,Register and News With API from Cloud Computing
+- Alfin Kurniawan (MD) - Jobdesk - Implementation Model from Machine Learning to Application
 - Alnanda Kusuma (ML)
 - Rimaya Dwi Atika (ML)
 - Muhammad Fachrurrozi (ML)
