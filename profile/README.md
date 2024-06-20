@@ -1,6 +1,7 @@
 # CatarActNow - Bangkit Capstone Project
 
 Welcome to official GitHub account of CatarActNow!
+
 ![mockup](https://github.com/CAPSTONE-C241-PS078/.github/assets/99121625/52dedcb5-8679-4bb5-b26c-1516b878081a)
 
 ## CatarActNow App Project
