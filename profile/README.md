@@ -19,5 +19,5 @@ Our team consists of seven great people with their own specialties. Here are the
 - Alnanda Kusuma (ML)
 - Rimaya Dwi Atika (ML)
 - Muhammad Fachrurrozi (ML)
-- Erick Syaputra Chaniago (CC)
-- Muhammad Mico Maulana (CC)
+- Erick Syaputra Chaniago (CC) - Jobdesk - Create Login and Regist API
+- Muhammad Mico Maulana (CC) - Jobdesk - Create News API
